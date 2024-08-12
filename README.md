@@ -1,4 +1,4 @@
-# Proximity and Boolean Query Search
+# Vector Space Search
 
 This is a Python project for forming a Vector Space Model and running queries on it.
 
